@@ -1,6 +1,5 @@
 version: STSv1
 mode: enforce
-mx: olsbstudent-bhcet-org-uk.mail.protection.outlook.com
 mx: d237190.a.ess.uk.barracudanetworks.com
 mx: d237190.b.ess.uk.barracudanetworks.com
 max_age: 1209600
